@@ -7,7 +7,7 @@ Release:        1%{?dist}
 Summary:        MessagePack, a binary-based efficient data interchange format
 
 Group:          Development/Libraries
-License:        Apache License V2.0
+License:        ASL 2.0 
 URL:            http://sourceforge.jp/projects/msgpack/
 Source0:        %{mytarget}.tar.gz
 
